@@ -46,6 +46,7 @@ setup(
         "torchvision",
         "requests",
         "pytorchcv",
+        "tensorflow",
         "tqdm",
     ],
 )
